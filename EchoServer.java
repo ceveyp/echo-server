@@ -1,4 +1,3 @@
-package ceveyp.syst44288.a2;
 /*
 This program is the echo server from assignment 2 question 1. However, this 
 time instead the server is able to deal with multiple concurrent requests from
