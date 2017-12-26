@@ -3,6 +3,8 @@ package ceveyp.syst44288.a2;
 This program is a client that makes echo requests of the server.
 It is exactly the same as in assignment 2 question 1.
 */
+
+//THIS IS A TEST
 import java.io.*;
 import java.net.*;
 
